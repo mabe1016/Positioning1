@@ -1,0 +1,26 @@
+/* Inserta tu CSS aqui{ } */
+body{ 
+	margin: 0px;
+	padding: 0px;
+	}
+
+ .red{ 
+	background: #ee3e64 ;
+	width: 200px;
+	height: 200px;
+	position: relative;
+}
+
+ .blue{ 
+	background: #44accf ;
+	width: 200px;
+	height: 200px;
+	position: relative;
+}
+
+ .green{ 
+	background: #b7d84b ;
+	width: 200px;
+	height: 200px;
+	position: relative;
+}
